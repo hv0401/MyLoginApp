@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="login_app">Login App</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="login">Login</string>
+    <string name="buttonmain">ButtonMain</string>
+    <string name="logout">Logout</string>
+</resources>
